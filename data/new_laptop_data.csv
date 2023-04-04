@@ -1,0 +1,721 @@
+,Rating,MRP,Processor,RAM,OS,Storage,Brand
+0,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+1,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+2,4.1,25685.0,Intel Celeron Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+3,4.4,51990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,ASUS
+4,4.2,38990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+5,4.1,23990.0,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,ASUS
+6,4.1,39990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,RedmiBook
+7,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+8,4.3,33490.0,Intel Core i3 Processor,8 GB DDR4 RAM,,256 GB SSD,Lenovo
+9,4.3,40990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+10,4.3,47990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+11,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+12,4.7,84990.0,,8 GB DDR4 RAM,,256 GB SSD,APPLE
+13,4.4,51990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,ASUS
+14,4.4,55990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+15,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+16,4.3,36990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+17,4.5,83990.0,Intel Core i5 Processor,16 GB DDR5 RAM,,512 GB SSD,ASUS
+18,4.3,50990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+19,,50990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+20,4.1,40990.0,,8 GB DDR4 RAM,,1 TB HDD256 GB SSD,DELL
+21,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+22,4.4,42090.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,ASUS
+23,,65990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+24,4.2,37990.0,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,,512 GB SSD,HP
+25,4.5,83990.0,Intel Core i5 Processor,16 GB DDR5 RAM,,512 GB SSD,ASUS
+26,4.2,40990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,HP
+27,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+28,4.6,89990.0,Intel Core i9 Processor,32 GB LPDDR5 RAM,,1 TB SSD,Infinix
+29,4.5,42490.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+30,4.4,66990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+31,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+32,4.6,112990.0,,8 GB Unified Memory RAM,,256 GB SSD,APPLE
+33,4.8,129990.0,,8 GB Unified Memory RAM,,512 GB SSD,APPLE
+34,4.3,57990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+35,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+36,4.2,119990.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,,1 TB SSD,ASUS
+37,4.6,79990.0,Intel Core i5 Processor,16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+38,4.3,89990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,HP
+39,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+40,4.2,56990.0,Intel Core i7 Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+41,5.0,134999.0,Intel Core i9 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,acer
+42,,170990.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,MSI
+43,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+44,,50490.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,,512 GB SSD,Lenovo
+45,,219990.0,Intel Core i7 Processor,32 GB DDR5 RAM,,1 TB SSD,MSI
+46,4.4,65114.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+47,3.9,62990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+48,4.0,16990.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,ASUS
+49,4.0,82990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+50,4.2,40450.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+51,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+52,4.2,37990.0,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+53,4.2,47990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+54,4.3,45490.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+55,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+56,4.4,57990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+57,4.0,42990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+58,4.3,43890.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+59,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+60,,129990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+61,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+62,4.6,84990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,HP
+63,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+64,4.5,90990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,,1 TB SSD,ASUS
+65,,89990.0,Intel Core i7 Processor,16 GB LPDDR4 RAM,,512 GB SSD,DELL
+66,4.4,59990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+67,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+68,4.3,59490.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+69,4.7,104990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,MSI
+70,4.1,25990.0,Intel Pentium Silver Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,ASUS
+71,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+72,,299990.0,Intel Core i9 Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,MSI
+73,,74990.0,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+74,4.2,50990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+75,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+76,4.2,42500.0,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,DELL
+77,4.4,68928.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+78,2.8,53990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,ASUS
+79,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+80,4.2,47990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+81,4.6,79990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+82,4.1,53490.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+83,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+84,4.0,58990.0,,8 GB DDR4 RAM,,1 TB HDD256 GB SSD,DELL
+85,4.8,112990.0,,8 GB Unified Memory RAM,,256 GB SSD,APPLE
+86,4.4,64150.0,Intel Core i5 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+87,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+88,4.3,41000.0,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,HP
+89,4.7,124990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,,1 TB SSD,ASUS
+90,4.2,36990.0,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+91,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+92,4.5,56990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+93,,279990.0,Intel Core i9 Processor,32 GB DDR5 RAM,,1 TB SSD,ASUS
+94,4.4,46990.0,,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,realme
+95,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+96,,349900.0,,32 GB Unified Memory RAM,,1 TB SSD,APPLE
+97,4.7,85990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,MSI
+98,4.4,38990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,ASUS
+99,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+100,,138990.0,,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,DELL
+101,4.3,329900.0,,32 GB Unified Memory RAM,,1 TB SSD,APPLE
+102,4.5,56990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+103,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+104,4.4,64150.0,Intel Core i5 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+105,4.8,112990.0,,8 GB Unified Memory RAM,,256 GB SSD,APPLE
+106,4.5,68990.0,,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+107,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+108,4.1,32000.0,,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,DELL
+109,4.3,32489.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,acer
+110,,299990.0,Intel Core i9 Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,MSI
+111,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+112,4.3,45990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+113,,149700.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+114,4.0,42990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+115,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+116,4.3,45990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+117,4.0,22900.0,AMD Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,acer
+118,4.4,46990.0,,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,realme
+119,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+120,,304990.0,Intel Core i9 Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,ASUS
+121,,359990.0,Intel Core i9 Processor,32 GB DDR5 RAM,,2 TB SSD,MSI
+122,,45990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+123,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+124,,84990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,,512 GB SSD,Lenovo
+125,4.8,93990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,HP
+126,4.2,40300.0,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+127,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+128,,171990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+129,4.3,69990.0,Intel Core i5 Processor,16 GB LPDDR4X RAM,,512 GB SSD,Lenovo
+130,4.4,63990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+131,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+132,4.7,84990.0,,8 GB DDR4 RAM,,256 GB SSD,APPLE
+133,4.3,40990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+134,4.2,35990.0,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,DELL
+135,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+136,,239990.0,,16 GB Unified Memory RAM,,512 GB SSD,APPLE
+137,4.0,82990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+138,4.5,159990.0,Intel Core i9 Processor,32 GB LPDDR5 RAM,,1 TB SSD,ASUS
+139,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+140,4.7,132900.0,,16 GB DDR4 RAM,,512 GB SSD,APPLE
+141,,75990.0,Intel Core i7 Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+142,4.4,37880.0,,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,DELL
+143,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+144,,73490.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+145,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+146,4.2,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+147,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+148,,144990.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,,1 TB SSD,MSI
+149,,49990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+150,4.4,52990.0,,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+151,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+152,4.3,79990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,MSI
+153,4.2,56990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+154,,89952.0,Intel Core i9 Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+155,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+156,,38990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+157,4.5,95990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD512 GB SSD,acer
+158,4.2,29990.0,Intel Core i3 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,Infinix
+159,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+160,2.8,44490.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+161,,78990.0,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5 RAM,,1 TB SSD,HP
+162,4.4,44990.0,Intel Core i3 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,ASUS
+163,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+164,,92990.0,Intel Core i5 Processor,16 GB LPDDR5 RAM,,512 GB SSD,ASUS
+165,3.9,114990.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+166,4.0,54990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,Lenovo
+167,,50990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+168,,49990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+169,4.1,32000.0,,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,DELL
+170,3.9,114990.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+171,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+172,4.5,113990.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,MSI
+173,4.0,54990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,Lenovo
+174,,38990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+175,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+176,,92990.0,Intel Core i5 Processor,16 GB LPDDR5 RAM,,512 GB SSD,ASUS
+177,3.9,30300.0,Intel Pentium Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,HP
+178,,29990.0,Intel Core i3 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,Infinix
+179,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+180,,129990.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,,1 TB SSD,MSI
+181,4.4,87099.0,,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+182,,45990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+183,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+184,,329990.0,,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+185,,211990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,,1 TB SSD,ASUS
+186,4.5,80990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+187,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+188,4.7,132900.0,,16 GB DDR4 RAM,,512 GB SSD,APPLE
+189,4.1,21990.0,Intel Celeron Quad Core Processor,4 GB LPDDR4X RAM,64 bit Windows 11 Operating System,128 GB SSD,Infinix
+190,,159990.0,Intel Core i9 Processor,32 GB LPDDR5 RAM,,1 TB SSD,ASUS
+191,3.9,62990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+192,4.7,67490.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+193,,224990.0,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,ASUS
+194,4.2,48990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+195,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+196,4.2,60990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+197,4.1,63890.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+198,,88990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+199,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+200,,83699.0,Intel Core i7 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+201,4.5,90490.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+202,3.4,69490.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+203,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+204,4.6,146990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,,1 TB SSD,ASUS
+205,,211990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,,1 TB SSD,ASUS
+206,4.4,64990.0,,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+207,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+208,,365387.0,Intel Core i9 Processor,32 GB DDR5 RAM,,2 TB SSD,ASUS
+209,,151990.0,AMD Ryzen 7 Hexa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB HDD512 GB SSD,DELL
+210,,224990.0,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,ASUS
+211,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+212,,170399.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,HP
+213,4.5,65990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+214,4.1,65490.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+215,,50990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+216,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+217,,79990.0,Intel Core i5 Processor,16 GB LPDDR4X RAM,,512 GB SSD,SAMSUNG
+218,4.5,74990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+219,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+220,,115990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,,1 TB SSD,ASUS
+221,3.9,31990.0,Intel Core i3 Processor,4 GB DDR4 RAM,,256 GB SSD,Lenovo
+222,,74490.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+223,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+224,4.0,27990.0,Intel Pentium Silver Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,ASUS
+225,4.7,85990.0,Intel Core i5 Processor,16 GB LPDDR4X RAM,,512 GB SSD,HP
+226,,146990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,,1 TB SSD,DELL
+227,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+228,4.5,56990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,ASUS
+229,,210990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+230,,149990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,GIGABYTE
+231,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+232,5.0,103990.0,Intel Core i7 Processor,16 GB LPDDR4X RAM,,512 GB SSD,HP
+233,4.8,91990.0,AMD Ryzen 5 Hexa Core Processor,16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+234,4.1,84990.0,Intel Core i7 Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+235,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+236,4.3,45490.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+237,,47990.0,AMD Ryzen 3 Quad Core Processor,8 GB LPDDR5 RAM,,512 GB SSD,ASUS
+238,4.1,40690.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+239,,50990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+240,4.3,39790.0,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+241,,54990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+242,,47990.0,AMD Ryzen 3 Quad Core Processor,8 GB LPDDR5 RAM,,512 GB SSD,ASUS
+243,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+244,4.8,259900.0,,16 GB Unified Memory RAM,,1 TB SSD,APPLE
+245,,139000.0,,8 GB Unified Memory RAM,,512 GB SSD,APPLE
+246,,115990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,,1 TB SSD,ASUS
+247,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+248,2.3,74990.0,Intel Core i5 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+249,4.2,56490.0,Intel Core i7 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,Mi
+250,,181990.0,Intel Core i9 Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+251,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+252,4.0,71990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+253,5.0,156490.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,acer
+254,,361990.0,AMD Ryzen 9 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,ASUS
+255,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+256,,139490.0,Intel Core i7 Processor,16 GB DDR5 RAM,,512 GB SSD,Lenovo
+257,4.7,112900.0,,16 GB DDR4 RAM,,256 GB SSD,APPLE
+258,5.0,129990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,,1 TB SSD,ASUS
+259,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+260,,114650.0,Intel Core i5 Processor,16 GB DDR5 RAM,,512 GB SSD,ASUS
+261,5.0,174990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,,1 TB SSD,ASUS
+262,4.9,188490.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,ALIENWARE
+263,3.9,62990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+264,4.7,144990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,Lenovo
+265,,349900.0,,32 GB Unified Memory RAM,,1 TB SSD,APPLE
+266,3.6,93899.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+267,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+268,4.2,40990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,ASUS
+269,,359990.0,Intel Core i9 Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,ASUS
+270,4.7,66990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+271,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+272,4.7,112900.0,,16 GB DDR4 RAM,,256 GB SSD,APPLE
+273,4.8,239900.0,,16 GB Unified Memory RAM,,512 GB SSD,APPLE
+274,,74990.0,Intel Core i7 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+275,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+276,4.5,74990.0,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,MSI
+277,4.2,59890.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+278,,68990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+279,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+280,,189990.0,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,Lenovo
+281,4.2,38990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,DELL
+282,4.4,44990.0,Intel Core i3 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,ASUS
+283,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+284,4.3,33990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+285,,174990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+286,,179990.0,AMD Ryzen 7 Octa Core Processor,32 GB DDR4 RAM,,1 TB SSD,Lenovo
+287,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+288,4.3,62990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+289,,137900.0,,16 GB Unified Memory RAM,,256 GB SSD,APPLE
+290,4.4,62990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+291,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+292,,40248.0,AMD Ryzen 3 Quad Core Processor,8 GB LPDDR5 RAM,,512 GB SSD,ASUS
+293,5.0,99990.0,,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+294,3.8,66998.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+295,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+296,,134990.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+297,,86990.0,Intel Core i5 Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+298,,148590.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+299,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+300,,68990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+301,,50990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+302,4.5,45990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+303,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+304,4.6,129990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,MSI
+305,4.5,74890.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+306,,281990.0,Intel Core i9 Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+307,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+308,,193990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,GIGABYTE
+309,,83990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,Lenovo
+310,4.7,129990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,MSI
+311,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+312,,50990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+313,4.6,129990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,MSI
+314,,123990.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+315,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+316,,168990.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+317,,166499.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,HP
+318,4.2,63990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,HP
+319,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+320,4.2,31990.0,Intel Core i3 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,Infinix
+321,4.2,42990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+322,,171990.0,AMD Ryzen 9 Octa Core Processor,32 GB LPDDR5 RAM,,1 TB SSD,ASUS
+323,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+324,,99290.0,Intel Core i5 Processor,16 GB LPDDR4X RAM,,512 GB SSD,Lenovo
+325,4.3,36541.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+326,4.7,241990.0,Intel Core i9 Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+327,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+328,3.0,137990.0,,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD256 GB SSD,ASUS
+329,,162990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+330,,157990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,,1 TB SSD,ASUS
+331,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+332,,139000.0,,8 GB Unified Memory RAM,,512 GB SSD,APPLE
+333,4.2,43990.0,,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+334,,70990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+335,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+336,,119990.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,,512 GB SSD,Lenovo
+337,,139990.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,,1 TB SSD,ASUS
+338,4.6,109990.0,Intel Core i7 Processor,16 GB DDR4 RAM,,1 TB SSD,HP
+339,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+340,4.3,62490.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+341,,62990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+342,,116899.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,HP
+343,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+344,4.1,38990.0,Intel Core i5 Processor,16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,Infinix
+345,5.0,197990.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,ASUS
+346,4.4,89990.0,Intel Core i5 Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+347,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+348,,329990.0,,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+349,4.1,49990.0,Intel Core i3 Processor,8 GB LPDDR4X RAM,,512 GB SSD,ASUS
+350,,55990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+351,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+352,,391990.0,AMD Ryzen 9 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,2 TB SSD,ASUS
+353,,71590.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+354,,69990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+355,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+356,,104990.0,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR4X RAM,,1 TB SSD,ASUS
+357,,301818.0,Intel Core i9 Processor,32 GB DDR5 RAM,,1 TB SSD,ASUS
+358,,211990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+359,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+360,4.3,119990.0,Intel Core i9 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,MSI
+361,,211990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+362,,104990.0,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR4X RAM,,1 TB SSD,ASUS
+363,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+364,,301818.0,Intel Core i9 Processor,32 GB DDR5 RAM,,1 TB SSD,ASUS
+365,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+366,4.3,96999.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+367,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+368,3.6,18990.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,64 bit Chrome Operating System,,ASUS
+369,,56200.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,,512 GB SSD,Lenovo
+370,3.0,38490.0,Intel Core i3 Processor,8 GB DDR4 RAM,,1 TB HDD256 GB SSD,Lenovo
+371,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+372,4.5,60990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+373,5.0,55990.0,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,acer
+374,,149990.0,Intel Core i7 Processor,8 GB DDR5 RAM,,1 TB SSD,Lenovo
+375,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+376,4.5,71990.0,Intel Core i7 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,Lenovo
+377,4.1,42907.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,DELL
+378,4.5,45990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+379,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+380,4.1,84990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+381,4.0,118990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+382,,98990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,Lenovo
+383,,50990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+384,,94990.0,AMD Ryzen 5 Hexa Core Processor,16 GB LPDDR4X RAM,,1 TB SSD,ASUS
+385,,157990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+386,3.9,41890.0,AMD Ryzen 3 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+387,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+388,4.4,56990.0,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,HP
+389,4.4,104990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+390,3.9,42590.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,ASUS
+391,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+392,4.7,66990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+393,,106199.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+394,,58590.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+395,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+396,4.0,118990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+397,4.5,102490.0,,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+398,,98990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,Lenovo
+399,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+400,,57990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,acer
+401,4.4,89890.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+402,4.8,219894.0,,16 GB Unified Memory RAM,,1 TB SSD,APPLE
+403,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+404,4.8,85990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,1 TB SSD,ASUS
+405,3.7,129490.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,MSI
+406,,65990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+407,3.9,62990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+408,4.6,112990.0,,8 GB DDR4 RAM,,512 GB SSD,APPLE
+409,,191990.0,Intel Core i9 Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+410,4.5,35990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+411,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+412,,246490.0,Intel Core i7 Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,DELL
+413,4.3,139990.0,,8 GB Unified Memory RAM,,512 GB SSD,APPLE
+414,,43990.0,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,,512 GB SSD,HP
+415,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+416,3.6,133499.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,HP
+417,4.2,59890.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,DELL
+418,4.7,142399.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,HP
+419,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+420,4.5,104890.0,,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+421,4.4,136800.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,MSI
+422,3.3,43190.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+423,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+424,,62190.0,Intel Core i3 Processor,8 GB DDR4 RAM,,256 GB SSD,Lenovo
+425,4.3,71090.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+426,4.1,202490.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,ALIENWARE
+427,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+428,4.8,54990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+429,4.2,140131.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,Lenovo
+430,,199999.0,Intel Core i7 Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,HP
+431,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+432,,96990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,,1 TB SSD,ASUS
+433,4.6,82990.0,Intel Core i5 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+434,4.3,64990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,ASUS
+435,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+436,4.2,49890.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+437,4.0,250000.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,ALIENWARE
+438,3.7,40990.0,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+439,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+440,,92890.0,Intel Core i7 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+441,,93990.0,Intel Core i5 Processor,16 GB DDR5 RAM,,512 GB SSD,ASUS
+442,,159990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,,1 TB SSD,Lenovo
+443,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+444,,249900.0,,16 GB Unified Memory RAM,,1 TB SSD,APPLE
+445,,309900.0,,32 GB Unified Memory RAM,,1 TB SSD,APPLE
+446,,304980.0,Intel Core i9 Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+447,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+448,,154990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+449,,154490.0,AMD Ryzen 9 Octa Core Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,HP
+450,4.0,56790.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,Lenovo
+451,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+452,,56990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+453,,269900.0,,16 GB Unified Memory RAM,,1 TB SSD,APPLE
+454,4.4,149990.0,,8 GB Unified Memory RAM,,512 GB SSD,APPLE
+455,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+456,,56990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+457,4.2,72990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+458,,309900.0,,32 GB Unified Memory RAM,,1 TB SSD,APPLE
+459,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+460,,304980.0,Intel Core i9 Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+461,4.2,43090.0,Intel Core i3 Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,DELL
+462,,99990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+463,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+464,4.9,99990.0,AMD Ryzen 5 Hexa Core Processor,16 GB LPDDR5 RAM,,512 GB SSD,ASUS
+465,,164990.0,Intel Core i7 Processor,16 GB DDR5 RAM,,1 TB SSD,Lenovo
+466,4.3,44190.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,DELL
+467,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+468,,59990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+469,,269900.0,,16 GB Unified Memory RAM,,1 TB SSD,APPLE
+470,4.4,149990.0,,8 GB Unified Memory RAM,,512 GB SSD,APPLE
+471,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+472,4.3,57990.0,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,ASUS
+473,4.5,115999.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+474,,247990.0,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+475,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+476,4.1,45490.0,,8 GB DDR4 RAM,,1 TB HDD256 GB SSD,DELL
+477,4.6,99990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+478,4.4,101990.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+479,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+480,5.0,99996.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,,1 TB SSD,ASUS
+481,,69490.0,Intel Core i5 Processor,8 GB DDR4 RAM,,1 TB HDD256 GB SSD,DELL
+482,,72990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,GIGABYTE
+483,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+484,,189990.0,AMD Ryzen 7 Octa Core Processor,32 GB DDR5 RAM,,1 TB SSD,Lenovo
+485,,67990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+486,,399990.0,Intel Core i9 Processor,32 GB DDR5 RAM,64 bit Windows 11 Operating System,4 TB SSD,ASUS
+487,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+488,4.5,52990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,Lenovo
+489,,57990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+490,,309900.0,,32 GB Unified Memory RAM,,1 TB SSD,APPLE
+491,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+492,,85990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,GIGABYTE
+493,,180595.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,,1 TB SSD,Lenovo
+494,4.6,69990.0,Intel Core i5 Processor,16 GB LPDDR4X RAM,64 bit Windows 10 Operating System,512 GB SSD,MSI
+495,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+496,4.8,69490.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+497,4.4,58990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+498,,249900.0,,16 GB Unified Memory RAM,,512 GB SSD,APPLE
+499,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+500,,164990.0,Intel Core i7 Processor,16 GB DDR5 RAM,,1 TB SSD,Lenovo
+501,4.2,51990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,ASUS
+502,,47990.0,AMD Ryzen 3 Quad Core Processor,8 GB LPDDR5 RAM,,512 GB SSD,ASUS
+503,3.9,62990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+504,,107699.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+505,4.4,52990.0,,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,acer
+506,3.6,109100.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+507,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+508,4.0,130990.0,Intel Core i7 Processor,16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+509,4.3,30690.0,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,DELL
+510,,89990.0,AMD Ryzen 5 Hexa Core Processor,16 GB LPDDR4X RAM,,512 GB SSD,ASUS
+511,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+512,,92290.0,AMD Ryzen 5 Hexa Core Processor,16 GB LPDDR4X RAM,,512 GB SSD,Lenovo
+513,4.1,103490.0,,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+514,3.8,62990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+515,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+516,,94990.0,Intel Core i7 Processor,16 GB DDR5 RAM,,512 GB SSD,MSI
+517,4.0,42490.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+518,,189990.0,AMD Ryzen 9 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+519,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+520,,75100.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD256 GB SSD,ASUS
+521,4.5,55990.0,AMD Ryzen 5 Hexa Core Processor,8 GB LPDDR4X RAM,64 bit Windows 10 Operating System,512 GB SSD,acer
+522,4.3,45999.0,,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,DELL
+523,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+524,4.4,72990.0,Intel Core i7 Processor,16 GB DDR4 RAM,,512 GB SSD,SAMSUNG
+525,,109990.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,,512 GB SSD,ASUS
+526,4.6,46990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+527,3.9,62990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+528,,167990.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+529,,59990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+530,4.5,85990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+531,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+532,,74990.0,AMD Ryzen 5 Dual Core Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+533,,48990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+534,4.3,83192.0,,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+535,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+536,4.5,180990.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,MSI
+537,3.8,56990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+538,4.4,43490.0,,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+539,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+540,4.0,157990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+541,4.2,31990.0,Intel Core i3 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,256 GB SSD,Infinix
+542,,95990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+543,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+544,,59990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,,1 TB SSD,ASUS
+545,5.0,99990.0,,16 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+546,4.2,104090.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,,512 GB SSD,ASUS
+547,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+548,4.1,25990.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,ASUS
+549,,109990.0,Intel Core i5 Processor,16 GB LPDDR5 RAM,,512 GB SSD,ASUS
+550,4.5,72990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+551,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+552,,47990.0,AMD Ryzen 3 Quad Core Processor,8 GB LPDDR5 RAM,,512 GB SSD,ASUS
+553,,44490.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+554,4.2,56990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+555,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+556,4.5,96990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD256 GB SSD,acer
+557,,75476.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+558,,39990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,HP
+559,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+560,,62990.0,AMD Ryzen 5 Hexa Core Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+561,4.6,72490.0,,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+562,,79990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+563,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+564,,95990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+565,4.1,84990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+566,4.1,25990.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,ASUS
+567,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+568,,109990.0,Intel Core i5 Processor,16 GB LPDDR5 RAM,,512 GB SSD,ASUS
+569,4.0,44490.0,Intel Core i3 Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,Lenovo
+570,,192990.0,Intel Core i7 Processor,32 GB DDR4 RAM,,1 TB SSD,Lenovo
+571,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+572,4.2,51890.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+573,,32990.0,Intel Core i3 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,Infinix
+574,,116640.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,128 GB SSD1 TB HDD128 GB SSD,acer
+575,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+576,,89990.0,AMD Ryzen 7 Hexa Core Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+577,,147990.0,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,ASUS
+578,,59990.0,AMD Ryzen 5 Quad Core Processor,8 GB LPDDR5 RAM,,512 GB SSD,ASUS
+579,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+580,,79990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+581,3.8,103490.0,,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+582,4.3,32990.0,Intel Core i3 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,Infinix
+583,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+584,4.8,69490.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+585,4.0,75990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,ASUS
+586,,234990.0,Intel Core i7 Processor,32 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB SSD,ASUS
+587,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+588,4.0,20990.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,ASUS
+589,4.5,61990.0,AMD Ryzen 5 Dual Core Processor,8 GB DDR4 RAM,,512 GB SSD,ASUS
+590,4.3,44490.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+591,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+592,4.6,63990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+593,4.3,62990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+594,,73890.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+595,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+596,4.0,130990.0,Intel Core i7 Processor,16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+597,,84990.0,Intel Core i5 Processor,16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+598,,45399.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,DELL
+599,,65990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+600,,61290.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,Lenovo
+601,,59990.0,AMD Ryzen 5 Quad Core Processor,8 GB LPDDR5 RAM,,512 GB SSD,ASUS
+602,,52990.0,AMD Ryzen 5 Quad Core Processor,8 GB LPDDR5 RAM,,512 GB SSD,ASUS
+603,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+604,,34000.0,Intel Core i3 Processor,8 GB DDR4 RAM,,256 GB SSD,Lenovo
+605,4.5,129999.0,,128 GB SSD for Reduced Boot Up Time and in Game LoadingUpgradable SSD Upto 512 GB and RAM8 GB DDR4 RAM,64 bit Windows 10 Operating System,128 GB SSD1 TB HDD128 GB SSD,acer
+606,4.3,42490.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,ASUS
+607,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+608,4.4,42690.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,DELL
+609,,71857.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+610,,166399.0,Intel Core i7 Processor,16 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,HP
+611,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+612,,87490.0,,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD128 GB SSD,HP
+613,,61255.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+614,4.4,55600.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,HP
+615,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+616,4.1,60130.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD256 GB SSD,acer
+617,,89976.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,,512 GB SSD,DELL
+618,4.2,28490.0,Intel Pentium Silver Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,acer
+619,4.5,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,MSI
+620,3.5,40990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,1 TB HDD256 GB SSD,HP
+621,4.2,162490.0,Intel Core i5 Processor,8 GB DDR3 RAM,,512 GB SSD,APPLE
+622,,115999.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,,1 TB SSD,acer
+623,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+624,4.5,59990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,ASUS
+625,4.3,55990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,Lenovo
+626,4.4,71990.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+627,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+628,,62490.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+629,3.5,16100.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,Lenovo
+630,,94990.0,Intel Core i5 Processor,16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+631,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+632,,66990.0,AMD Ryzen 5 Hexa Core Processor,16 GB DDR4 RAM,,1 TB SSD,ASUS
+633,4.1,38990.0,Intel Core i5 Processor,16 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,Infinix
+634,4.4,76990.0,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,Lenovo
+635,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+636,,147990.0,Intel Core i7 Processor,16 GB LPDDR5 RAM,,1 TB SSD,MSI
+637,4.2,55490.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+638,4.0,45690.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,DELL
+639,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+640,5.0,35890.0,Intel Core i3 Processor,8 GB DDR4 RAM,,256 GB SSD,Lenovo
+641,4.3,66990.0,Intel Core i7 Processor,8 GB LPDDR3 RAM,64 bit Windows 10 Operating System,512 GB SSD,ASUS
+642,4.5,76990.0,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+643,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+644,4.1,21990.0,Intel Celeron Quad Core Processor,4 GB LPDDR4X RAM,64 bit Windows 11 Operating System,128 GB SSD,Infinix
+645,4.1,57490.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,Lenovo
+646,4.3,37490.0,Intel Core i3 Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,HP
+647,,65990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+648,4.4,45990.0,Intel Core i3 Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+649,4.1,59990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+650,4.1,42490.0,Intel Core i3 Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,DELL
+651,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+652,4.4,71990.0,Intel Core i5 Processor,8 GB DDR4 RAM,,512 GB SSD,Lenovo
+653,3.9,42690.0,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,DELL
+654,3.7,104990.0,Intel Core i5 Processor,16 GB LPDDR5 RAM,,512 GB SSD,ASUS
+655,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+656,,84990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR5 RAM,64 bit Windows 11 Operating System,1 TB SSD,acer
+657,4.3,32990.0,Intel Core i3 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,Infinix
+658,4.1,37990.0,Intel Core i5 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,Infinix
+659,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+660,,45990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,DELL
+661,4.3,31490.0,Intel Core i3 Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,ASUS
+662,,36990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+663,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+664,4.1,22490.0,Intel Celeron Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,128 GB SSD,ASUS
+665,4.0,42990.0,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+666,3.7,60990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB HDD256 GB SSD,DELL
+667,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+668,,89490.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+669,,62250.0,Intel Core i5 Processor,8 GB DDR4 RAM,,1 TB SSD,ASUS
+670,3.9,104400.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,HP
+671,,65990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
+672,3.6,31490.0,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD,Lenovo
+673,4.1,73799.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+674,,138999.0,AMD Ryzen 7 Octa Core Processor,16 GB LPDDR5 RAM,,1 TB SSD,acer
+675,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+676,4.4,114990.0,Intel Core i7 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,1 TB SSD,MSI
+677,4.2,42999.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+678,4.3,35990.0,Intel Core i3 Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,DELL
+679,4.2,58400.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+680,3.7,37990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit DOS Operating System,256 GB SSD,Lenovo
+681,,74990.0,Intel Core i5 Processor,8 GB LPDDR4X RAM,,512 GB SSD,SAMSUNG
+682,,70430.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+683,4.3,53990.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+684,4.2,28790.0,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,,512 GB SSD,HP
+685,4.3,39490.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,DELL
+686,4.7,89990.0,Intel Core i7 Processor,16 GB LPDDR4X RAM,64 bit Windows 10 Operating System,1 TB SSD,ASUS
+687,4.2,60990.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,HP
+688,4.3,82490.0,Intel Core i7 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD256 GB SSD,ASUS
+689,4.5,58990.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,Lenovo
+690,,89509.0,AMD Ryzen 7 Dual Core Processor,16 GB DDR5 RAM,,512 GB SSD,ASUS
+691,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+692,4.2,39990.0,Intel Core i5 Processor,8 GB LPDDR4X RAM,64 bit Windows 11 Operating System,512 GB SSD,Infinix
+693,4.4,55490.0,,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,realme
+694,4.0,25990.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,ASUS
+695,3.9,62990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,HP
+696,4.1,73799.0,Intel Core i5 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+697,4.2,39990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,512 GB SSD,HP
+698,4.0,25990.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,ASUS
+699,4.2,25490.0,Intel Celeron Dual Core Processor,4 GB LPDDR4 RAM,,,HP
+700,4.5,58490.0,AMD Ryzen 5 Hexa Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,1 TB HDD256 GB SSD,Lenovo
+701,4.2,48990.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,MSI
+702,4.5,87990.0,AMD Ryzen 7 Octa Core Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,ASUS
+703,3.8,19100.0,,4 GB DDR4 RAM,32 bit Chrome Operating System,,HP
+704,,171990.0,AMD Ryzen 7 Octa Core Processor,16 GB DDR5 RAM,,1 TB SSD,ASUS
+705,3.7,97500.0,Intel Core i5 Processor,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,HP
+706,4.3,69490.0,,8 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,DELL
+707,3.8,22490.0,,4 GB LPDDR4X RAM,,,HP
+708,4.2,72990.0,,16 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,DELL
+709,4.4,37990.0,AMD Ryzen 3 Dual Core Processor,8 GB DDR4 RAM,64 bit Windows 10 Operating System,256 GB SSD,Lenovo
+710,,189990.0,Intel Core i7 Processor,32 GB LPDDR5 RAM,,1 TB SSD,MSI
+711,4.3,36158.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,512 GB SSD,Lenovo
+712,4.5,24500.0,Intel Pentium Quad Core Processor,4 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,acer
+713,4.2,30990.0,Intel Core i3 Processor,8 GB DDR4 RAM,,256 GB SSD,RedmiBook
+714,4.5,64490.0,,8 GB DDR3 RAM,64 bit Windows 10 Operating System,256 GB SSD,HP
+715,4.2,33639.0,Intel Core i3 Processor,8 GB DDR4 RAM,64 bit Windows 11 Operating System,256 GB SSD,Lenovo
+716,,46990.0,AMD Ryzen 5 Quad Core Processor,8 GB LPDDR5 RAM,64 bit Windows 11 Operating System,512 GB SSD,acer
+717,4.6,102490.0,,16 GB DDR4 RAM,64 bit Windows 10 Operating System,512 GB SSD,MSI
+718,,174990.0,Intel Core i7 Processor,16 GB DDR5 RAM,,512 GB SSD,ASUS
+719,,65990.0,Intel Core i5 Processor,16 GB DDR4 RAM,,512 GB SSD,MSI
