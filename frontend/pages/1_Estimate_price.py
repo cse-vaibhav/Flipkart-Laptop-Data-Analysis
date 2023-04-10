@@ -24,6 +24,7 @@ class CustomMultiLabelBinarizer(MultiLabelBinarizer):
 
 
 model = joblib.load(os.path.abspath("../model/model.obj"))
+print(os.getcwd())
 
 
 def load_data():
