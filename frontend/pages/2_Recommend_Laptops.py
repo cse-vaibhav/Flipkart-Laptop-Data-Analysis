@@ -45,7 +45,7 @@ def load_data():
     return data
 
 
-print(os.path.abspath("../model/recommender.obj"))
+st.write(os.path.abspath("../model/recommender.obj"))
 model = joblib.load(os.path.abspath("../model/recommender.obj"))
 print(os.path.abspath("../model/recommender.obj"))
 data = load_data()
