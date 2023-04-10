@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import os
 import joblib
 
 from sklearn.preprocessing import MultiLabelBinarizer
@@ -23,13 +22,12 @@ class CustomMultiLabelBinarizer(MultiLabelBinarizer):
         return super().fit_transform(X)
 
 
-parent_dir = "/".join(__file__.split("/")[:-2])
-st.write(os.path.abspath(parent_dir))
-model = joblib.load(os.path.join(parent_dir, "model/model.obj"))
+app_dir = "/app/flipkart-laptop-data-analysis"
+model = joblib.load(app_dir + "/models/model.obj")
 
 
 def load_data():
-    data_file = os.path.abspath("../data/preprocessed.csv")
+    data_file = app_dir + "/data/preprocessed.csv"
     data = pd.read_csv(data_file, index_col=0)
     return data
 

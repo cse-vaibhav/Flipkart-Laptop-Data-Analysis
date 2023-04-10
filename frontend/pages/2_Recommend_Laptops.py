@@ -38,19 +38,18 @@ class Recommender:
         return recommendations
 
 
+app_dir = "/app/flipkart-laptop-data-analysis"
+model = joblib.load(app_dir + "/models/recommender.obj")
+
+
 def load_data():
-    data_file = os.path.abspath("../data/final.csv")
+    data_file = os.path.abspath(app_dir + "/data/final.csv")
     data = pd.read_csv(data_file, index_col=0)
     data.Storage = data.Storage.apply(lambda x: tuple(eval(x)))
     return data
 
 
-parent_dir = "/".join(__file__.split("/")[:-2])
-st.write(os.path.abspath(parent_dir))
-model = joblib.load(os.path.join(parent_dir, "model/recommender.obj"))
-
 data = load_data()
-
 storage_sizes = set()
 for storage in data.Storage.unique():
     for sto in storage:
