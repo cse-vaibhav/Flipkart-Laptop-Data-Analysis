@@ -23,8 +23,8 @@ class CustomMultiLabelBinarizer(MultiLabelBinarizer):
         return super().fit_transform(X)
 
 
-model = joblib.load(os.path.abspath("../model/model.obj"))
 print(os.getcwd())
+model = joblib.load(os.path.abspath("../model/model.obj"))
 
 
 def load_data():
