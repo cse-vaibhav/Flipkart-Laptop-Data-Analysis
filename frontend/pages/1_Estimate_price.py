@@ -25,7 +25,7 @@ class CustomMultiLabelBinarizer(MultiLabelBinarizer):
 
 parent_dir = "/".join(__file__.split("/")[:-2])
 st.write(os.path.abspath(parent_dir))
-model = joblib.load(os.path.join(parent_dir, "/model/model.obj"))
+model = joblib.load(os.path.join(parent_dir, "model/model.obj"))
 
 
 def load_data():
